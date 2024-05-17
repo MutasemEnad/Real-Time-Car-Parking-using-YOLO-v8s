@@ -1,5 +1,5 @@
 
-## Introduction: YOLOv8 - Real-Time Object Detection and Beyond
+## Real time object detection for parking using YOLOv8s
 
 Embark on a journey through the cutting-edge landscape of real-time object detection with Ultralytics YOLOv8. Representing the pinnacle of innovation in deep learning and computer vision, YOLOv8 stands as the latest evolution in this dynamic field, promising unparalleled speed and precision.
 
