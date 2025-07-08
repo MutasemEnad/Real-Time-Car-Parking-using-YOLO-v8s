@@ -78,7 +78,10 @@ computer vision, offering insights into object detection within live video strea
 **Dataset:**
 the data set whic use in this project you can find it in roboflow in this link: https://universe.roboflow.com/almutasem-bellah-enad/real-time-car-parking , also you can use our model in robowflow and test your data there.
 
-
-
+> ## 📌 Disclaimer  
+> This project was developed as part of an academic assignment and is intended for **educational and non-commercial use only**.  
+> All datasets and materials used or referenced in this repository were collected from **publicly available resources**. I do **not claim ownership** of any external data or content unless explicitly stated.  
+>  
+> If you are the owner of any material used and have concerns about its usage, please feel free to contact me, and I will take appropriate action.
 
 
