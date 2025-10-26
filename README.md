@@ -75,13 +75,16 @@ model for inference. This streamlined process facilitated real-world application
 computer vision, offering insights into object detection within live video streams
 
 
-**Dataset:**
-the data set whic use in this project you can find it in roboflow in this link: https://universe.roboflow.com/almutasem-bellah-enad/real-time-car-parking , also you can use our model in robowflow and test your data there.
 
-> ## 📌 Disclaimer  
-> This project was developed as part of an academic assignment and is intended for **educational and non-commercial use only**.  
-> All datasets and materials used or referenced in this repository were collected from **publicly available resources**. I do **not claim ownership** of any external data or content unless explicitly stated.  
->  
-> If you are the owner of any material used and have concerns about its usage, please feel free to contact me, and I will take appropriate action.
+## 🗂️ Data Sources and Licensing
 
+This project was developed as part of a **graduate-level academic assignment** and is intended **solely for educational and non-commercial use**.
+
+The dataset used for model training was compiled from multiple **publicly available datasets on [Roboflow](https://roboflow.com)**, collected between **Jan–May 2024**.  
+Unfortunately, the specific dataset links and titles were not retained. However, all datasets were marked as *public* at the time of access.
+
+I **do not claim ownership** of any external data, images, or annotations used in this project unless explicitly stated.  
+All rights remain with the original dataset creators and contributors.
+
+If you are the owner or contributor of any dataset included in this compilation and would like to request **attribution, modification, or removal**, please contact me — I will respond promptly and take the appropriate action.
 
